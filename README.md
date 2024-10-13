@@ -1,2 +1,2 @@
 # Globomantics CRM app
-in progress
+work in progress
